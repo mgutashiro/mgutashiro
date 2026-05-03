@@ -12,8 +12,8 @@ on:
     branches:
       - main
       
-  permissions: 
-    contents: write
+permissions: 
+  contents: write
     
 jobs:
   generate:
