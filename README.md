@@ -4,12 +4,12 @@
 
 ![](https://nirzak-streak-stats.vercel.app/?user=mgutashiro&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mgu0625&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mgutashiro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
 <picture>
-  <source media"(prefers-color-scheme: dark)" srcset="https://github.com/mgu0625/mgu0625/blob/output/github-snake-dark.svg" />
-  <source media"(prefers-color-scheme: light)" srcset="https://github.com/mgu0625/mgu0625/blob/output/github-snake.svg" />
-  <img alt="firhub-snake" src=""https://raw.githubusercontent.com/mgu0625/mgu0625/output/github-snake.svg" />
+  <source media"(prefers-color-scheme: dark)" srcset="https://github.com/mgutashiro/mgutashiro/blob/output/github-snake-dark.svg" />
+  <source media"(prefers-color-scheme: light)" srcset="https://github.com/mgutashiro/mgutashiro/blob/output/github-snake.svg" />
+  <img alt="firhub-snake" src=""https://raw.githubusercontent.com/mgutashiro/mgutashiro/output/github-snake.svg" />
 </picture>
 
 ###
